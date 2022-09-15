@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo App</string>
+    <string name="title_home">Home</string>
+    <string name="title_kenya">KE</string>
+    <string name="title_mexico">MX</string>
+    <string name="title_philippines">PH</string>
+</resources>

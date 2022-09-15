@@ -1,0 +1,27 @@
+<resources>
+    <string name="hint_search_recipe">Search food recipes…</string>
+    <string name="invite_friends_earn_money">Invite friends, earn money!</string>
+    <string name="view_faqs_or_send_us_a_message">View FAQs or send us a message</string>
+    <string name="tala_helped_me_with_my_dream">\"Tala helped me with my dream\"</string>
+    <string name="read_more">Read more</string>
+    <string name="my_tala_status">My Tala Status</string>
+    <string name="grow_your_limit_up_to_s">Grow your limit up to %s</string>
+    <string name="view_status">View Status</string>
+    <string name="view_loan_offer">View loan offer</string>
+    <string name="apply_now">Apply now</string>
+    <string name="qualify_for_loans_up_to_over_time">Qualify for loans up to %s over time.</string>
+    <string name="repay_on_time_to_get_loans_up_to"><![CDATA[Repay on time to get loans up to <b>%s.</b>]]></string>
+    <string name="apply_for_a_loan">Apply for a loan</string>
+    <string name="you_are_on_track">You are on track!</string>
+    <string name="amount_due">%s</string>
+    <string name="due_date">is due tomorrow</string>
+    <string name="make_a_payment">make a payment</string>
+    <string name="how_to_repay">how to repay</string>
+    <string name="track_your_progress_over_time">Track your progress over time</string>
+    <string name="your_application_is_approved">Your application is approved!</string>
+    <string name="approved_amount">You\'ve been approved for %s</string>
+    <string name="fully_paid">Your loan is fully paid</string>
+    <string name="apply_another_loan">apply for another loan any time you want and grow your limit</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

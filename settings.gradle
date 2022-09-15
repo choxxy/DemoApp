@@ -1,0 +1,6 @@
+rootProject.name = "DemoApp"
+
+include ':app'
+include ':core'
+include ':features:onboard'
+include ':features:home'
